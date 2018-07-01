@@ -16,6 +16,6 @@ Here are the instructions on how to make the library-sys work.
 
 
 
-
+I know my work needs a lot of improvement. I am willing to prove my worth.
 Thank you for considering me as a candidate for the position ! :) 
 Hoping for a feedback Thank you! 
